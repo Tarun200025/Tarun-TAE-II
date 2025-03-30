@@ -8,7 +8,7 @@
 ---
 
 **Project Description**
-Sure! Here’s a **project description** you can include in your README.md:
+Sure! Here’s a **Python Programming** you can include in your README.md:
 
 **Project Description**
 
